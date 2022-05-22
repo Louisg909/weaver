@@ -1,5 +1,5 @@
 # weaver
-A tool to help get really good scores in weaver.
+A tool to help get really good scores in weaver (weaver being a wordle alternate that uses Lewis Carrols "word ladder" game that you see on the back of cerial boxes).
 
 To do:
 1. Make copy of list of words
